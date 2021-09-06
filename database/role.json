@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6135c135e97261d40ee90829"
+  },
+  "title": "manager",
+  "departmentId": 1,
+  "createdAt": {
+    "$date": "2021-09-06T07:20:21.287Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:20:21.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135c254e97261d40ee9082b"
+  },
+  "title": "employee",
+  "departmentId": 1,
+  "createdAt": {
+    "$date": "2021-09-06T07:25:08.283Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:25:08.283Z"
+  },
+  "__v": 0
+}]

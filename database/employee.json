@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6135c9c760c880e8bea233a8"
+  },
+  "firstName": "Haresh",
+  "lastName": "Prajapati",
+  "roleId": "6135c135e97261d40ee90829",
+  "managerId": "6135c9c760c880e8bea233a8",
+  "createdAt": {
+    "$date": "2021-09-06T07:56:55.648Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:56:55.648Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135c9e560c880e8bea233ab"
+  },
+  "firstName": "Prashant",
+  "lastName": "Prajapati",
+  "roleId": "6135c254e97261d40ee9082b",
+  "managerId": "6135c9c760c880e8bea233a8",
+  "createdAt": {
+    "$date": "2021-09-06T07:57:25.587Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:57:25.587Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135ca1fbd69ae4ee867a205"
+  },
+  "firstName": "Mohit",
+  "lastName": "Mistry",
+  "roleId": "6135c254e97261d40ee9082b",
+  "managerId": "6135c9c760c880e8bea233a8",
+  "createdAt": {
+    "$date": "2021-09-06T07:58:23.786Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:58:23.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135ca45bd69ae4ee867a208"
+  },
+  "firstName": "Neha",
+  "lastName": "Patel",
+  "roleId": "6135c135e97261d40ee90829",
+  "managerId": "6135ca45bd69ae4ee867a208",
+  "createdAt": {
+    "$date": "2021-09-06T07:59:01.914Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T07:59:01.914Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135ca85bd69ae4ee867a20b"
+  },
+  "firstName": "Isha",
+  "lastName": "Ahir",
+  "roleId": "6135c254e97261d40ee9082b",
+  "managerId": "6135ca45bd69ae4ee867a208",
+  "createdAt": {
+    "$date": "2021-09-06T08:00:05.579Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T08:00:05.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135d4a82171de538f8e3dad"
+  },
+  "firstName": "Jinal",
+  "lastName": "Tandel",
+  "roleId": "6135c135e97261d40ee90829",
+  "managerId": "6135d4a82171de538f8e3dad",
+  "createdAt": {
+    "$date": "2021-09-06T08:43:20.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T08:43:20.910Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135d4d62171de538f8e3db0"
+  },
+  "firstName": "Sweta",
+  "lastName": "Trivedi",
+  "roleId": "6135c254e97261d40ee9082b",
+  "managerId": "6135d4a82171de538f8e3dad",
+  "createdAt": {
+    "$date": "2021-09-06T08:44:06.569Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T08:44:06.569Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6135d4ed2171de538f8e3db3"
+  },
+  "firstName": "Priyanka",
+  "lastName": "Prajapati",
+  "roleId": "6135c254e97261d40ee9082b",
+  "managerId": "6135d4a82171de538f8e3dad",
+  "createdAt": {
+    "$date": "2021-09-06T08:44:29.519Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-06T08:44:29.519Z"
+  },
+  "__v": 0
+}]
